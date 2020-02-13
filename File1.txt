@@ -1,5 +1,8 @@
 public class HellowWorld{
 
+/**
+This method prints Hello World
+**/
 public static void main(String[] var){
 	System.out.println("Hello World");
 }
