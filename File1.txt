@@ -1,8 +1,8 @@
 public class HellowWorld{
 
-public static void display(String user){
-System.out.println("Displaying msg and msg is displayed"+user);
 
+public static void display(String userName){
+System.out.println("Displaying msg and msg is displayed"+user);
 }
 
 
@@ -10,8 +10,9 @@ System.out.println("Displaying msg and msg is displayed"+user);
 This method prints Hello World
 **/
 public static void main(String[] var){
+	String userName ="Omkar";
 	System.out.println("Hello World For git");
-	display(user);
+	display(userName);
 }
 
 }
