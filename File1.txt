@@ -1,7 +1,7 @@
 public class HellowWorld{
 
 public void display(){
-System.out.println("Displaying msg");
+	System.out.println("Displaying msg and msg is displayed");
 }
 
 
