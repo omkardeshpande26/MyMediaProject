@@ -1,7 +1,7 @@
 public class HellowWorld{
 
-public void display(){
-System.out.println("Displaying msg");
+public static void display(){
+System.out.println("Displaying Proper Message");
 }
 
 
@@ -10,6 +10,7 @@ This method prints Hello World
 **/
 public static void main(String[] var){
 	System.out.println("Hello World For git");
+	display();
 }
 
 }
